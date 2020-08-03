@@ -1,4 +1,4 @@
-# CNN_for_Binary_Class_Cats-vs-Dogs
+# CNN_for_Binary_Class_Cats-vs-Dogs using Tensorflow
 ## How to Use this CNN 
 - **Set your Anconda ENV by follow this Youtube video Link**
 
